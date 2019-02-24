@@ -1,0 +1,8 @@
+Welcome to Eric Hyson’s Maxwell’s Demon Game! Follow these steps to enjoy this wonderful game :)
+
+1) Go to the class entitled “Main” and run the file. A new game window will pop up with two chambers.
+2) The border’s of the play-space is marked with black lines. For a maximum playing experience, adjust the window to align with these borders. 
+3) Click the “Add Balls” button to add one ball to each side of the chamber: one red, fast ball and one blue, slow ball. Go ahead, add as many as you want!
+4) Clicking anywhere in the window will open a “door” in the middle of the barrier, allowing the balls to move from one chamber to another.
+5) As balls move between chambers, watch how the average speed of each side change with the temperature display at the top of each chamber.
+6) If you wish to restart the game, click the “Reset Game” button to restore to the game to the opening state with no balls.
